@@ -1,5 +1,6 @@
+from dictionarylogo import logo
 bids = {}
-
+print(logo)
 while True:
     name = input("What is your name? ")
     price = int(input("What's your bid? $"))

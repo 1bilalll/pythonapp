@@ -1,6 +1,6 @@
 import random
 from hangman_words import word_lists
-from hangman2 import logo
+from hangman2 import logo,stages
 
 lives=6
 print(logo)
